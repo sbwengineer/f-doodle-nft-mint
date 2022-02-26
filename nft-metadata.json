@@ -1,0 +1,16 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Breed",
+            "value": "Maltipoo"
+        },
+        {
+            "trait_type": "Eye color",
+            "value": "Mocha"
+        }
+    ],
+    "description": "The world's most adorable and sensitive pup.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVK4sCPUbbZvfFbhmoJNzJ5FiBvCtWn4KjcsJ46rF2s3L",
+    "name": "Lucky Dog"
+}
+  
